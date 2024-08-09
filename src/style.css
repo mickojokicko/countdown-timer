@@ -2,12 +2,12 @@
 
 @font-face {
   font-family: 'Mile';
-  src: url(font/Doctor\ Glitch.otf);
+  src: url(./font/Doctor\ Glitch.otf);
 }
 
 @font-face {
   font-family: 'Mile2';
-  src: url(font/DOMISC__.TTF);
+  src: url(./font/DOMISC__.TTF);
 }
 
 * {
@@ -15,7 +15,7 @@
 }
 
 body {
-  background-image: url(background.jpg);
+  background-image: url(./asset/background.jpg);
   background-size: cover;
   background-position: center;
   display: flex;
